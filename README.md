@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Next Level Week" src="public/favicon.ico" width="210px" />
+    <img alt="Next Level Week" src="src/images/map-marker.svg" width="210px" />
 </h3>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
